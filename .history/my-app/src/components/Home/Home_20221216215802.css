@@ -1,0 +1,64 @@
+.heading{
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-size: 30px;
+    margin-left: 3rem;
+}
+
+.heading_{
+    text-align: left;
+}
+.heading__{
+    display: inline-block;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+.saturn{
+position: absolute;
+top:  0;
+margin: 10rem 30rem;
+
+}
+.heading-sub{
+    color: var(--clr-primary-10);
+    font-size: 18px;
+}
+.button{
+    background-color: #fffe7a;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 20px;
+    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+   7px 7px 20px 0px rgba(0,0,0,.1),
+   4px 4px 5px 0px rgba(0,0,0,.1);
+  outline: none;
+}
+.science{
+    position: absolute;
+    top: 30rem;
+    margin: 0 28rem;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: black;
+    border-color: #fffe7a;
+    color: #fffe7a;
+
+}
+@media only screen and (max-width: 600px){
+    .saturn{
+        margin: 8rem 20rem;
+    }
+    .science{
+        margin: 1rem 3rem;
+    }
+    .heading{
+        font-size: 20px;
+        margin-left: 3rem;
+    }
+    .heading-sub{
+        font-size: 14px;
+    }
+}
