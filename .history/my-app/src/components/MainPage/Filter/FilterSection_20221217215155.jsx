@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import "./FilterSection.css";
-// import { getQuestions, filterQuestions } from "../../../services/Services";
 import Questions from "../../../assests/updated.json";
 
 

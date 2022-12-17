@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./FilterSection.css";
-// import { getQuestions, filterQuestions } from "../../../services/Services";
+import { getQuestions, filterPokemon } from "../services/services";
 import Questions from "../../../assests/updated.json";
 
 
