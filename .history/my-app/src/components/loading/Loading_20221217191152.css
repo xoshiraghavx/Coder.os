@@ -1,0 +1,7 @@
+.loading{
+    background-color: #0e0e0e;
+    z-index: 1;  
+}
+.loading img{
+    margin: 13rem 35rem;
+}

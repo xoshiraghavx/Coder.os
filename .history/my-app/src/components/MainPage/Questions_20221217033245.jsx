@@ -1,0 +1,2 @@
+rfc
+export default Questions;

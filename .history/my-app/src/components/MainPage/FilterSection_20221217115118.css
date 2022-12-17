@@ -1,0 +1,43 @@
+.filter-section {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    225deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(173, 213, 213, 1) 9%,
+    rgba(136, 195, 194, 1) 13%,
+    rgba(127, 190, 189, 1) 14%,
+    rgba(115, 146, 154, 1) 23%,
+    rgba(23, 29, 31, 1) 69%,
+    rgba(0, 0, 0, 1) 93%
+  );
+  width: 20rem;
+  height: 50vh;
+  border-radius: 10px;
+  border-color: white;
+  padding: 1rem;
+}
+.buttons {
+  background-color: white;
+  padding: 0.3rem 1rem;
+  border-radius: 100px;
+  font-size: 12px;
+  color: var(--clr-primary-2);
+  font-weight: bold;
+  margin: 5px 2px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  border: none;
+}
+h3 {
+  color: #ffffff;
+}
+.title {
+  margin: auto;
+  padding: 2px 5px;
+}
+.buttons:hover {
+  cursor: pointer;
+}
+@media only screen and (max-width: 1100px){
+  .filter
+}

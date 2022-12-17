@@ -1,0 +1,8 @@
+.loading{
+    background-color: rgb(255, 255, 255);
+    z-index: 1;    
+}
+.loading img{
+margin: 8rem 30rem;
+
+}

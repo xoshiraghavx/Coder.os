@@ -1,0 +1,11 @@
+.loading{
+    background-color: #0e0e0e;
+    z-index: 1;  
+    height: 100vh;  
+}
+.loading img{
+/* margin: 13rem 35rem; */
+border: 5px solid white;
+padding: 50px 0;
+height: 100%;
+}

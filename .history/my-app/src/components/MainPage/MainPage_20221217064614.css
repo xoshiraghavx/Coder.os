@@ -1,0 +1,11 @@
+
+.main-section {
+  display: flex;
+  flex-direction: row;
+}
+@media only screen and (max-width: 1100px){
+  .ques-section{
+      display: flex;
+     flex-direction: column;
+  }
+}

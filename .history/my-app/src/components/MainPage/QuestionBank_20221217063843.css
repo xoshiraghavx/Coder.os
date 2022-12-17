@@ -1,0 +1,30 @@
+.ques-section{
+    position: absolute;
+    right: 0;
+    margin-right: 5rem;
+    width: 60%;
+}
+.ques-bar{
+   display: flex;
+  flex-direction: row;
+  font-weight: bold;
+  justify-content: space-between;
+  background: #ffffff;
+  padding: 1rem;
+  border-radius: 20px;
+}
+.ques-bank{
+    margin-top: 1rem;
+    background: #ffffff;
+    padding: 1rem;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.ques{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+@media only screen and (max-width: 1100px){
+
+}

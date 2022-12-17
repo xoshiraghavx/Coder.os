@@ -1,0 +1,9 @@
+.loading{
+    background-color: rgb(255, 255, 255);
+    z-index: 1;  
+    height: 100vh;  
+}
+.loading img{
+margin: 10rem 35rem;
+
+}

@@ -1,0 +1,7 @@
+.loading{
+    background-color: aliceblue;
+    z-index: 1;    
+}
+.loading img{
+margin: 8rem 30rem;
+}

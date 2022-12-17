@@ -1,0 +1,24 @@
+/* .loading{
+    background-color: #0e0e0e;
+    z-index: 1;  
+}
+.loading img{
+/* margin: 13rem 35rem; */
+/* border: 5px solid white; */
+} */
+.loading_ {
+    background: gray;
+    height: 300px;
+    width: 300px;
+    position: relative;
+  }
+  
+  .loading {
+    background: orange;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -50px 0 0 -50px;
+  }

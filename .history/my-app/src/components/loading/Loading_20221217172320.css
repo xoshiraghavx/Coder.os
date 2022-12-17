@@ -1,0 +1,12 @@
+.loading{
+    background-color: aliceblue;
+    z-index: 1;
+
+    
+}
+img{
+background-color: red;
+display: flex;
+justify-content: center;
+align-items: center;
+}

@@ -1,0 +1,8 @@
+.loading{
+    background-color: aliceblue;
+    z-index: 1;    
+}
+img{
+background-color: red;
+margin: 20rem;
+}
