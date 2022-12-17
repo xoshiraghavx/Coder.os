@@ -1,4 +1,6 @@
 import "./Home.css";
+import ReactDOM from "react-dom/client";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import NavBar from "../NavBar/Navbar";
@@ -9,6 +11,7 @@ function Home() {
   return (
     <div>
       <NavBar />
+
       <div className="Home">
         <div className="heading">
           <h1>

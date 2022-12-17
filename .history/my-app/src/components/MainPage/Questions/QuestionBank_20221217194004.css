@@ -10,12 +10,10 @@ th, td {
 }
 .name a{
     text-decoration: none;
-    color: black;
 }
-.name a:hover{
+.name:hover{
     cursor: pointer;
     text-decoration: underline;
-    color: red;
 }
 table{
     width: 100%;

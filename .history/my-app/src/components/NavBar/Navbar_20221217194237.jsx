@@ -18,7 +18,7 @@ function NavBar() {
               <a href="https://www.linkedin.com/in/oshiraghav/" target="_blank"><img src="assests/linkedin.png" alt="" /></a>
             </li>
             <li>
-              <a href="https://github.com/xoshiraghavx" target="_blank"><img src="assests/github.png" alt="" /></a>
+              <a href="https://github.com/xoshiraghavx"><img src="assests/github.png" alt="" /></a>
             </li>
           </ul>
         </div>

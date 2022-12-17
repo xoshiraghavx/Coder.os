@@ -15,7 +15,6 @@ th, td {
 .name a:hover{
     cursor: pointer;
     text-decoration: underline;
-    color: red;
 }
 table{
     width: 100%;

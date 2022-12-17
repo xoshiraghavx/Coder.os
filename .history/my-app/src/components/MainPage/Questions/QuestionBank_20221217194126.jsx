@@ -19,7 +19,8 @@ function QuestionBank() {
             <>
               <tr>
                 <td>{question.Id}</td>
-                <td className="name"><a href={question.Link}target="_blank">{question.Name}</a></td>
+                {/* <td className="name"><a href={question.Link}>{question.Name}</a></td> */}
+                <td className="name">{question.Name}</a></td>
                 <td><a href={question.videourl} target="_blank"><img src="assests/file.png"></img></a></td>
                 <td>{question.Level}</td>
                 <td>{question.Category}</td>

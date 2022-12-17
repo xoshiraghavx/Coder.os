@@ -9,6 +9,7 @@ function Home() {
   return (
     <div>
       <NavBar />
+
       <div className="Home">
         <div className="heading">
           <h1>
